@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="garfi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:28:46 p. m."/>
+        <attribute name="created" value="Z2FyZmk7QUxMSVNPTkdBUkZJTzsyMDI1LTA4LTI2OzA1OjA0OjExIHAuIG0uOzI5NTk="/>
+        <attribute name="edited" value="Z2FyZmk7QUxMSVNPTkdBUkZJTzsyMDI1LTA4LTI2OzA1OjI4OjQ2IHAuIG0uOzI7MzA4Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;ALLISON GARFIO&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.2" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

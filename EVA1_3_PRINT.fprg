@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_PRINT"/>
+        <attribute name="authors" value="garfi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:34:39 p. m."/>
+        <attribute name="created" value="Z2FyZmk7QUxMSVNPTkdBUkZJTzsyMDI1LTA4LTI2OzA1OjI5OjA4IHAuIG0uOzI5NzI="/>
+        <attribute name="edited" value="Z2FyZmk7QUxMSVNPTkdBUkZJTzsyMDI1LTA4LTI2OzA1OjM0OjM5IHAuIG0uOzI7MzA4MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE:&quot;" newline="False"/>
+            <output expression="&quot;ALLISON PALOMA GARFIO REY&quot;" newline="True"/>
+            <output expression="&quot;N&#218;MERO DE CONTROL:&quot;" newline="False"/>
+            <output expression="&quot;52220486&quot;" newline="True"/>
+            <output expression="&quot;EDAD:&quot;" newline="False"/>
+            <output expression="17" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
