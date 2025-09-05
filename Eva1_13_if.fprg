@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Eva1_13_if"/>
+        <attribute name="authors" value="garfi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-05 05:28:55 p. m."/>
+        <attribute name="created" value="Z2FyZmk7QUxMSVNPTkdBUkZJTzsyMDI1LTA5LTA1OzA1OjAwOjQ2IHAuIG0uOzI5NjE="/>
+        <attribute name="edited" value="Z2FyZmk7QUxMSVNPTkdBUkZJTzsyMDI1LTA5LTA1OzA1OjI4OjU1IHAuIG0uOzE7MzA3OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Calificaci&#243;n" type="Real" array="False" size=""/>
+            <output expression="&quot;Introduce la calificaci&#243;n: &quot;" newline="True"/>
+            <input variable="Calificaci&#243;n"/>
+            <if expression="Calificaci&#243;n&gt;=70">
+                <then>
+                    <output expression="&quot;Toma sus vacaciones&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Se queda sin vacaciones&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
