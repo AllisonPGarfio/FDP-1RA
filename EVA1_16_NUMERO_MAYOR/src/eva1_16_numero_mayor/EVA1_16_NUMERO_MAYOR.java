@@ -28,7 +28,12 @@ public class EVA1_16_NUMERO_MAYOR {
         if(num1>num2){
             System.out.println("El numero mayor es: "+num1);
         }else{
-            System.out.println("El numero mayor es: "+num2);
+            if(num2>num1){ //IF anidados
+            System.out.println("El numero mayor es: "+num2); 
+               
+        }else{
+               System.out.println("Los dos numeros son iguales");
+            }
         }
     }
     
